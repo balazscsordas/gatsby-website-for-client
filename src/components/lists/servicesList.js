@@ -103,10 +103,10 @@ const services = [
     image: "../images/BrunoVasari_img.jpg",
     treatments: [
       {
-        treatmentName: "Cell Active növényi őssejtes kezelés",
-        treatmentSubname: "Szezonális limitált kezelés",
-        treatmentDescription: "Intenzív bőrfiatalító, regeneráló kezelés, érett, igénybevett bőr kezelésére, arc, nyak, és dekoltázs ápolással. A kezelés egy egyedi növényi őssejtes formulán alapszik, melyek a ma ismert legjobb bőrregeneráló anyagok, legyen szó idősödő bőrről, hegekről, foltokról, öregedés késleltesésről. A növényi őssejtek képesek pozitívan befolyásolni a bőr sejtmegújulási, regenerálódási és öregedési folyamatait, mindemellett a kezelés rendkívül pihentető, relaxáló élményt is nyújt egyben. Az eredmény egy hidratált, simább, feszesebb bőr, mely ellenállóbb a környezet káros hatásaival és az öregedési folyamatokkal szemben.",
-        treatmentPrice: "16500 Ft",
+        treatmentName: "KIANTY Polifenolos anti-aging kezelés",
+        treatmentSubname: "Speciális kezelés a szem és az ajkak területére fokuszálva",
+        treatmentDescription: "A Kianty polifenolos anti-ageing kezelés magas hatóanyag és flavonoid tartalmával veszi fel a harcot a bőr öregedése ellen, speciálisan célozza meg a szem és az ajak kontúrját.",
+        treatmentPrice: "17500 Ft",
         treatmentTime: "80 perc",
         treatmentSteps: [
           "Letisztítás",
@@ -115,6 +115,24 @@ const services = [
           "Frissítő arcmasszázs speciális hatóanyagokkal",
           "Magas őssejt tartalmú koncentrátum bevitele ultrahanggal",
           "Értékes ásványi anyagokkal átitatott arcot és nyakat lefedő fátyolmaszk felhelyezése",
+          "Kellemes dekoltázsmasszázs",
+          "Befejező ápolás",
+          "Fényvédelem"
+        ]
+      },
+      {
+        treatmentName: "Cell Active növényi őssejtes kezelés",
+        treatmentSubname: "Szezonális limitált kezelés",
+        treatmentDescription: "Intenzív bőrfiatalító, regeneráló kezelés, érett, igénybevett bőr kezelésére, arc, nyak, és dekoltázs ápolással. A kezelés egy egyedi növényi őssejtes formulán alapszik, melyek a ma ismert legjobb bőrregeneráló anyagok, legyen szó idősödő bőrről, hegekről, foltokról, öregedés késleltesésről. A növényi őssejtek képesek pozitívan befolyásolni a bőr sejtmegújulási, regenerálódási és öregedési folyamatait, mindemellett a kezelés rendkívül pihentető, relaxáló élményt is nyújt egyben. Az eredmény egy hidratált, simább, feszesebb bőr, mely ellenállóbb a környezet káros hatásaival és az öregedési folyamatokkal szemben.",
+        treatmentPrice: "16500 Ft",
+        treatmentTime: "80 perc",
+        treatmentSteps: [
+          "Letisztítás",
+          "A bőr PH egyensúlyának visszaállítása",
+          "Vulkáni kőzetes kettős hatású peeling felvitele",
+          "Frissítő arcmasszázs speciális hatóanyagokkal",
+          "Ultrahangos hatóanyagbevitel az egész arc területére, polifenolos szérum a szem és ajak területére",
+          "Alginátos maszk a szem és ajak területére, vitalizáló krémpakolás az arc többi területére",
           "Kellemes dekoltázsmasszázs",
           "Befejező ápolás",
           "Fényvédelem"
