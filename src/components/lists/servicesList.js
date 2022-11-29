@@ -105,7 +105,7 @@ const services = [
       {
         treatmentName: "KIANTY Polifenolos anti-aging kezelés",
         treatmentSubname: "Speciális kezelés a szem és az ajkak területére fokuszálva",
-        treatmentDescription: "A Kianty polifenolos anti-ageing kezelés magas hatóanyag és flavonoid tartalmával veszi fel a harcot a bőr öregedése ellen, speciálisan célozza meg a szem és az ajak kontúrját.",
+        treatmentDescription: "A Kianty polifenolos anti-ageing kezelés magas hatóanyag és flavonoid tartalmával veszi fel a harcot a bőr öregedése ellen, speciálisan célozza meg a szem és az ajak kontúrját. A kezelés stimulálja a kollagén és elasztin szintézist a bőrben, halványítja a már kialakult ráncokat, sötét karikákat. Késlelteti az öregedési folyamatokat, enyhíti a szem körüli esetleges puffadtságot, valamint rugalmassá teszi a kezelt területet.",
         treatmentPrice: "17500 Ft",
         treatmentTime: "80 perc",
         treatmentSteps: [
